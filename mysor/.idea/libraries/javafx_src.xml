@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="javafx-src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jdk1.8.0_181/javafx-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../jdk1.8.0_181/src.zip!/" />
+      <root url="jar://D:/Загрузки/mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/build/java" />
+      <root url="jar://D:/Загрузки/mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/demo/java" />
+      <root url="jar://D:/Загрузки/mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/generated/java" />
+      <root url="jar://D:/Загрузки/mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/legacy/java" />
+      <root url="jar://D:/Загрузки/mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/main/core-api/java" />
+      <root url="jar://D:/Загрузки/mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/main/core-impl/java" />
+      <root url="jar://D:/Загрузки/mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/main/protocol-impl/java" />
+      <root url="jar://D:/Загрузки/mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/main/user-api/java" />
+      <root url="jar://D:/Загрузки/mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/main/user-impl/java" />
+      <root url="jar://D:/Загрузки/mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/build/java" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/demo/java" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/generated/java" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/legacy/java" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/main/core-api/java" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/main/core-impl/java" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/main/protocol-impl/java" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/main/user-api/java" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/main/user-impl/java" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.29.zip!/mysql-connector-java-8.0.29/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
